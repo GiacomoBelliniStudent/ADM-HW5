@@ -1,8 +1,4 @@
 # ADM-HW5
-Repository for ADM Homework 5
-
-
-# ADM-HW4-28
 This repository is dedicated to the fifth Homework for the ADM course, 2022.
 
 ### Group members:
